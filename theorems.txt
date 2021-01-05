@@ -1,0 +1,29 @@
+Start
+Принцип Архімеда
+archim.png
+Теорема про три послідовності
+three_seq.png
+Принцип Больцано-Вейєрштрасса
+bol_weer_principle.png
+Критерій Коші існування границі функції
+koshi_criteria.png
+Теорема Веєрштрасса
+weer_theorem.png
+Теорема Больцано-Коші
+bol_koshi_theorem.png
+Теорема Кантора
+kantor_theorem.png
+Теорема Ферма
+ferm_th.png
+Теорема Ролля
+roll_th.png
+Теорема Лагранжа
+lagran_th.png
+Теорема Коші
+koshi_th.png
+Теорема Тейлора
+taylor_th.png
+Означення визначеного інтегралу
+def_int.png
+Основна теорема інтегрального числення
+int_count_th.png
