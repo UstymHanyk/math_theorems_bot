@@ -76,6 +76,7 @@ TOKEN = "1586720115:AAF6XIyHgm05sfe6K_WVlhkvRVVnyq_iEK8"
 bot = telepot.Bot(TOKEN)
 MessageLoop(bot, {'chat': on_chat_message,
                   'callback_query': on_callback_query}).run_as_thread()
+bot.setWebhook("ucu-theorems-bot" + TOKEN)
 
 print('Listening ...')
 while 1:
